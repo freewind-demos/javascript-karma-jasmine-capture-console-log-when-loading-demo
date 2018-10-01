@@ -27,7 +27,7 @@ module.exports = function (config) {
     },
 
     browserConsoleLogOptions: {
-      level: 'info'
+      level: 'log'
     },
   });
 };
